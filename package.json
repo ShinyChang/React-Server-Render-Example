@@ -1,0 +1,25 @@
+{
+  "name": "React-Server-Render-Exmaple",
+  "version": "0.0.1",
+  "author": "ShinyChang",
+  "description": "React server render with Express.",
+  "dependencies": {
+    "express": "^4.10.2",
+    "express-react-views": "^0.7.2",
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "browserify": "^9.0.8",
+    "event-stream": "^3.3.0",
+    "glob": "^5.0.5",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0",
+    "reactify": "^1.1.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.1.1"
+  }
+}
